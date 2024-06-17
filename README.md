@@ -13,5 +13,7 @@ Each cell interacts with its eight neighbors (horizontal, vertical, and diagonal
 ## Features of the Simulation:-
 1. You can generate a random simulation, or create one of your own, or choose some pre defined grid patterns.
 2. You can either play each simulation manually using the spacebar, or simulate it by pressing the simulate button.
-3. You can clear any simulation at any point using the reset button.
-4. Number of generations of a particular simulation is also displayed.
+3. You can clear any simulation at any point using the Clear button.
+4. You can generate a random simulation at any point using the Randomise button.
+5. Press P for pause, A for the '101' pattern, 'UP' for zoom in, 'DOWN' for zoom out.
+6. Number of generations of a particular simulation is also displayed.
